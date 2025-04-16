@@ -1,0 +1,1 @@
+This project on R analyzes the factors affecting life expectancy across 193 countries from 2000 to 2015. It applies a range of econometric and statistical modeling techniques to assess the impact of variables such as infant mortality, GDP, education, immunization rates, and healthcare access.
